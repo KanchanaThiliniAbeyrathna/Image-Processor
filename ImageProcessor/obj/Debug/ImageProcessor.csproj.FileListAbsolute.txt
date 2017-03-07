@@ -1,0 +1,36 @@
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Form1.resources
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.exe
+E:\Visual Studio 2015\Projects\WP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.pdb
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.exe
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.pdb
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Form1.resources
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\IP\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.exe
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.pdb
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Form1.resources
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+C:\Users\Thilini\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.exe
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.pdb
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Form1.resources
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+E:\Semester 5\CS3712 - Image Processing\Project\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache

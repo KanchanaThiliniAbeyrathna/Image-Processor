@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor", "ImageProcessor\ImageProcessor.csproj", "{05C98DAE-0544-4C53-AE17-8BD9B4A19233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestImageProcessor", "UnitTestImageProcessor\UnitTestImageProcessor.csproj", "{F8ABB48D-273B-4660-8024-26E7E5DD7B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C98DAE-0544-4C53-AE17-8BD9B4A19233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C98DAE-0544-4C53-AE17-8BD9B4A19233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C98DAE-0544-4C53-AE17-8BD9B4A19233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C98DAE-0544-4C53-AE17-8BD9B4A19233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8ABB48D-273B-4660-8024-26E7E5DD7B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8ABB48D-273B-4660-8024-26E7E5DD7B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8ABB48D-273B-4660-8024-26E7E5DD7B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8ABB48D-273B-4660-8024-26E7E5DD7B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
